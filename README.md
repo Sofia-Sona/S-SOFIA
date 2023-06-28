@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **courses**
 
-- 💬 Ask me about **C,Java**
+- 💬 Ask me about **C,Java,python**
 
 - 📫 How to reach me **sofiasona25@gmail.com**
 
